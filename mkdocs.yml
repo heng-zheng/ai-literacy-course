@@ -21,12 +21,12 @@ nav:
       - Week 12: weeks/week-12.md
       - Week 13: weeks/week-13.md
   - Concepts:
-      - Ai Definition: concepts/ai-definition.md
-      - Ai Ethics: concepts/ai-ethics.md
+      - ai definition: concepts/ai-definition.md
+      - ai ethics: concepts/ai-ethics.md
       - AI Paradigms: concepts/ai-paradigms.md
-      - Ai Timeline: concepts/ai-timeline.md
-      - Copyright Tdm: concepts/copyright-tdm.md
-      - Symbolic Ai: concepts/symbolic-ai.md
+      - ai timeline: concepts/ai-timeline.md
+      - copyright tdm: concepts/copyright-tdm.md
+      - symbolic ai: concepts/symbolic-ai.md
 
 
 

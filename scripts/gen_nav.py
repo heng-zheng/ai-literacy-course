@@ -67,7 +67,7 @@ def collect_concepts() -> list[tuple[str, str]]:
             continue
 
         h1 = guess_title_from_h1(p)
-        label = h1 if h1 else p.stem.replace("-", " ").title()
+        label = h1 if h1 else p.stem.replace("-", " ").replace("_", " ")
 
         rel = p.relative_to(DOCS).as_posix()
         items.append((label, rel))
