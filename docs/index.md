@@ -14,7 +14,6 @@ Materials on this site may be revised or expanded as the course progresses.
 **Module 1: AI and Information Professions (Weeks 1-4)**
 
 - [Week 1: Introduction to AI and Information Professions](weeks/week-01.md)
-    - AI definitions, history, everyday AI, roles in information work
 - [Week 2: AI for Search, Discovery, and Recommendation](weeks/week-02.md)
     - Information retrieval, search algorithms, discovery systems, bias and fairness
 - [Week 3: AI for Knowledge Management and Information Systems](weeks/week-03.md)
@@ -44,7 +43,6 @@ Materials on this site may be revised or expanded as the course progresses.
 - [Week 12: Concerns of AI](weeks/week-12.md)
     - Privacy, copyright, hallucinations, bias, environmental impact
 - [Week 13: AI Policy, Governance, and the Future of AI](weeks/week-13.md)
-    - AI regulations, professional guidelines, governance challenges
 
 ---
 

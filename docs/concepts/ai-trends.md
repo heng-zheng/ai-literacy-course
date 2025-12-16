@@ -1,0 +1,1 @@
+[The 2025 AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report)
