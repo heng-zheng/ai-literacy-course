@@ -1,5 +1,5 @@
 site_name: LIS/ICT 690 - AI Literacy for Information Organizations
-site_url: https://heng-zheng.github.io/ai-literacy-course/
+site_url: https://heng-zheng.github.io/ai-literacy/
 
 plugins:
   - search
