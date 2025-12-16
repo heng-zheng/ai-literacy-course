@@ -18,3 +18,16 @@ nav:
   - Policies:
       - AI Ethics: policies/ai-ethics.md
       - Copyright & TDM: policies/copyright-tdm.md
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.follow
+    - search.highlight
+    - search.suggest
+
+extra_css:
+  - stylesheets/extra.css
