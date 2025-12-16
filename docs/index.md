@@ -22,9 +22,9 @@ The course assumes **no prior technical background** and is intended for student
 ## Syllabus
 
 **Module 1: AI and Information Professions (Weeks 1-4)**
-- Week 1: Introduction to AI and Information Professions
+- [Week 1: Introduction to AI and Information Professions](weeks/week-01.md)
     - AI definitions, history, everyday AI, roles in information work
-- Week 2: AI for Search, Discovery, and Recommendation
+- [Week 2: AI for Search, Discovery, and Recommendation](weeks/week-02.md)
     - Information retrieval, search algorithms, discovery systems, bias and fairness
 - Week 3: AI for Knowledge Management and Information Systems
     - Digital archives, metadata automation, chatbots
