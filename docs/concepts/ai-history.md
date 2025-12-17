@@ -260,6 +260,7 @@ Limitations:
 ## 2017–Present: Attention is all you need
 
 **2017**
+
 Based on deep learning and neural networks, a team of researchers at Google published a groundbreaking paper in 2017 titled *[Attention Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)*. This work introduced the Transformer architecture and is widely recognized as a major milestone that enabled the development of modern generative AI.
 
 However, progress was not instant. When the Transformer architecture was first introduced, it did not immediately receive ongoing strategic focus within Google.
@@ -268,8 +269,27 @@ However, progress was not instant. When the Transformer architecture was first i
 
 Instead, the newly founded company OpenAI was among the first to successfully deploy large language models based on the Transformer architecture at scale. The release of ChatGPT marked the first instance of a large language model achieving widespread public adoption and commercial success.
 
-Subsequent examples of large language models include Claude by Anthropic, Gemini by Google, and Grok by xAI. 
+<div class="figure-row size-sm">
 
+  <figure class="course-figure">
+    <img class="course-figure-img"
+         src="/ai-literacy/assets/images/Mobile_phone_with_ChatGPT.jpg"
+         alt="Mobile phone with ChatGPT on keyboard">
+    <figcaption><em>ChatGPT on Mobile Phone</em></figcaption>
+
+    <details class="image-source">
+      <summary>Image source</summary>
+      <div class="image-source-body">
+        Image: Wikimedia Commons (CC BY 2.0)  
+        https://commons.wikimedia.org/wiki/File:Mobile_phone_with_ChatGPT_on_keyboard_(52916924616).jpg
+      </div>
+    </details>
+  </figure>
+
+</div>
+
+
+Subsequent examples of large language models include Claude by Anthropic, Gemini by Google, and Grok by xAI. 
 
 Large language models demonstrate a range of language-related capabilities, including:
 
@@ -278,6 +298,10 @@ Large language models demonstrate a range of language-related capabilities, incl
 - Translation  
 - Question answering  
 - Code generation 
+
+Governments have recognized the importance of artificial intelligence development. For example, the United States has recently introduced several initiatives and policies, such as the GENESIS Mission (https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/).
+
+At the same time, industry has invested heavily in building AI data centers, reflecting ambitious efforts toward achieving artificial general intelligence (AGI).
 
 However, despite their abilities, large language models also have limitations:
 
