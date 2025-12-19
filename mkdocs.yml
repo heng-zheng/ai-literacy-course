@@ -39,6 +39,7 @@ theme:
     - toc.follow
     - search.highlight
     - search.suggest
+    - content.code.copy
 
 extra_css:
   - stylesheets/extra.css

@@ -15,3 +15,7 @@ The emphasis is on conceptual understanding rather than technical detail: what A
 - Different AI paradigms reflect different ways of modeling intelligence
 - Many AI systems already influence everyday information access and decision-making
 - Information professionals play a critical role in evaluating, shaping, and governing AI use
+
+## Reading materials:
+- Stanford AI page
+- 1-2 articles for AI4IS
