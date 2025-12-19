@@ -33,23 +33,18 @@ In the era of generative AI, AI technologies are everywhere:
 - [AI-powered chatbots](https://www.ibm.com/think/topics/ai-customer-service-chatbots) for customer support and FAQs. 
 - Generative AI models can create videos from text prompts, such as [OpenAI's Sora](https://openai.com/index/video-generation-models-as-world-simulators/). The following example shows a short welcoming video generated using Sora with the prompt below.
 
-<div style="max-width:360px;margin:auto;">
-  <div style="position:relative;padding-bottom:177.78%;height:0;overflow:hidden;">
-    <iframe
-      src="https://www.youtube-nocookie.com/embed/uPFW3qNX3NM"
-      title="YouTube Shorts video"
-      style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen>
-    </iframe>
-  </div>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/kFbg19Ic0O0"
+    title="Sora 2 generated welcoming video"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
 </div>
 
 Prompt used for video generation ([Sora](https://sora.chatgpt.com/))
 
 ``` { .text .copy }
-A friendly University of Kentucky wildcat mascot walks into a modern classroom.
-The wildcat looks at the students and says:
-"Welcome to LIS/ICT 690: AI Literacy for Information Organizations at the University of Kentucky."
-Warm lighting, welcoming tone, realistic animation, short cinematic shot.
+A welcome video set in a university classroom at the University of Kentucky. The Wildcat mascot walks into an AI literacy classroom, faces the students, and speaks clearly and calmly: “Welcome to the AI Literacy for Information Organizations course at the University of Kentucky. We’re excited to have you in this course. Let’s get started.” Professional academic tone, friendly and welcoming.
 ```
